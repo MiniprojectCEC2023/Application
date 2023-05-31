@@ -1,0 +1,2 @@
+String? registerNumber;
+String? name;
